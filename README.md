@@ -1,6 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Freelance projects<br><br>- 🌱 I’m currently learning Practicum and Internet resources<br><br>- 👯 I’m looking to collaborate on Dinamico Games<br><br>- 💬 Ask me about python, javascript and data science.<br><br>- 📫 How to reach me luisernestoperezbello@gmail.com<br><br>- 📄 Know about my experiences  <a href='https://www.linkedin.com/in/luis-ernesto-p%C3%A9rez-bello-91a709210/'>Here</a>
- <br><br>- ⚡ Fun fact I think that I'm morning person , I like the morning to improve my abilitys.
+- 🔭 Hi, my name is Luis, I've work as Full Stack programmer for 3 years focusing in web development<br><br>
+- 🔭Currently working as Freelancer in diverse projects, I believe in my education to transform the people life with technnologie.<br><br>- 🌱 My principal expertise is focused in Python , JavaScript , Machinle Learning and AI<br> <br>- 📫 How to reach me luisernestoperezbello@gmail.com<br><br>- 📄 Know about my experiences  <a href='https://www.linkedin.com/in/luis-ernesto-p%C3%A9rez-bello-91a709210/'>Here</a>
+ <br><br>- ⚡ this is my website https://luis-bello-portfolio.onrender.com/
 
 
 ## 🌐 Socials:
